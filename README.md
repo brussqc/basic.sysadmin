@@ -5,6 +5,8 @@ Dans ce guide vous trouverez les fonctions:
 - SSH
 - GPG/PGP
 - Pass
+- Gitolite
+- Git
 
 ## SSH = Secure Shell
 
@@ -12,6 +14,7 @@ Le protocole SSH permet une connexion sécurisé entre deux postes. Voici commen
 
 Dans le terminal du client:
 >ssh test@192.168.0.1
+>
 >yes
 
 Le système va vous demander le mot de passe de l'utilisateur sur lequel vous vous connecté.
@@ -106,7 +109,7 @@ Le port LAN = le fil que se rend dans votre switch ou réseau fermé.
 
 Gitolite est une application serveur de repos git
 
-Pour installer gitolite j'utilise ce (guide)[https://gitolite.com/gitolite/fool_proof_setup.html]
+Pour installer gitolite j'utilise ce [guide](https://gitolite.com/gitolite/fool_proof_setup.html)
 
 ## Git
 
